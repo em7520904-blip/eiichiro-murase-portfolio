@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://em7520904-blip.github.io/eiichiro-murase-portfolio/sitemap.xml
